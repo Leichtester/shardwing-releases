@@ -10,7 +10,7 @@
   <a href="https://github.com/Leichtester/shardwing-releases/releases/latest"><b>⬇ Neueste Version herunterladen</b></a>
 </p>
 
----
+<br>
 
 Shardwing öffnet deine `.miz` und macht daraus ein Briefing-Paket, wie es eine echte Staffel nutzen würde. Routen, Cartridges, Lineup Card und taktische Grafiken plant ihr gemeinsam an einem Ort und spielt sie direkt zurück in DCS.
 
@@ -31,9 +31,9 @@ Shardwing öffnet deine `.miz` und macht daraus ein Briefing-Paket, wie es eine 
 Beides liegt beim [neuesten Release](https://github.com/Leichtester/shardwing-releases/releases/latest).
 
 > [!NOTE]
-> Die Installer sind noch nicht code-signiert.
-> **Windows:** Bei der SmartScreen-Warnung auf „Weitere Informationen“ → „Trotzdem ausführen“.
-> **macOS:** Beim ersten Start Rechtsklick auf die App → „Öffnen“.
+> Die Installer sind noch nicht code-signiert, beim ersten Start warnt das System deshalb einmal:
+> - **Windows:** Bei SmartScreen auf „Weitere Informationen“ → „Trotzdem ausführen“
+> - **macOS:** Rechtsklick auf die App → „Öffnen“
 
 ## Updates
 
