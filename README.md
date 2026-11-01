@@ -64,4 +64,11 @@ Alles Weitere steht im **[Handbuch](https://leichtester.github.io/shardwing-rele
 
 ---
 
-<sub>Shardwing ist ein privates Projekt und steht in keiner Verbindung zu Eagle Dynamics. DCS World ist eine Marke von Eagle Dynamics SA. Der Quellcode liegt nicht in diesem Repository.</sub>
+## Nutzung
+
+Shardwing ist kostenlos und darf von jedem für eigene Missionen genutzt werden – privat und in eurer Staffel. Es wird ohne Gewähr bereitgestellt. Teilt am besten den Link zu dieser Seite statt der Installer – dann bekommen alle die Updates. Die Lizenzen der enthaltenen Bibliotheken, Karten und Skripte stehen in der App unter *Menü → Lizenzen*.
+
+---
+
+<sub>[Impressum](https://leichtester.github.io/shardwing-releases/rechtliches/impressum) · [Datenschutz](https://leichtester.github.io/shardwing-releases/rechtliches/datenschutz) · [Lizenzen und Quellen](https://leichtester.github.io/shardwing-releases/rechtliches/lizenzen) · Kontakt: kontakt@shardwing.de</sub><br>
+<sub>Shardwing ist ein privates, nicht kommerzielles Projekt und steht in keiner Verbindung zu Eagle Dynamics. DCS World ist eine Marke von Eagle Dynamics SA. Der Quellcode liegt nicht in diesem Repository.</sub>
