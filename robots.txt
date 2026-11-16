@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://handbuch.shardwing.de/sitemap.xml
